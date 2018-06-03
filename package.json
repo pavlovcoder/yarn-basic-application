@@ -1,0 +1,10 @@
+{
+  "name": "yarn-basic-application",
+  "version": "pre-alpha 0.8.5",
+  "description": "Basic application for testing all functionalities of Yarn (package manager).",
+  "main": "index.js",
+  "repository": "https://github.com/pavlovcoder/yarn-basic-application.git",
+  "author": "Wlodzimierz Pavlov",
+  "license": "MIT",
+  "dependencies": {}
+}
